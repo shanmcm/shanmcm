@@ -20,6 +20,6 @@ Classification:** ([🔗Code](https://github.com/shanmcm/iCaRL) | [📄Paper](ht
   - Developed in MATLAB
 
  ⛽ **EZGas**: ([🔗Code](https://github.com/shanmcm/EzGas))
-  - crowdsourcing service that allows users to: locate gas stations in an area, check and update prices for a given station, add stations that re not currently in the system
+  - Crowdsourcing service that allows users to locate gas stations in an area, check and update prices for a given station, add stations that re not currently in the system
   - Developed in Java using Spring Framework
  
