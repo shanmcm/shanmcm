@@ -19,7 +19,7 @@ Classification:** ([🔗Code](https://github.com/shanmcm/iCaRL) | [📄Paper](ht
   - Predict the quality of a wine based on information such as country, description, variety ect.
   - Developed in python
 
- 💹	 **The SIR Model for Spread of Disease and its analysis for COVID-19:** ([🔗Code](https://github.com/shanmcm/BSc-Thesis) | [💬Presentation](https://github.com/shanmcm/BSc-Thesis/blob/master/SIR_Theory_and_Simulations.pdf))
+ 💹	 **The SIR Model for Spread of Disease and its analysis for COVID-19:** ([🔗Code](https://github.com/shanmcm/BEng-Thesis) | [💬Presentation](https://github.com/shanmcm/BEng-Thesis/blob/master/SIR_Theory_and_Simulations.pdf))
   - B.Eng. Thesis focused on modelling the trend of COVID-19
   - Uses the SIRD model with time-dependent rates
   - Developed in MATLAB
